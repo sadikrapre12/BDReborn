@@ -1,21 +1,19 @@
-# [BDReborn](https://telegram.me/BDReborn)
+# [GHOST](https://telegram.me/GHOST_BOOT)
 
-**An advanced and powerful administration bot based on NEW TG-CLI
+** بوت متقدمة وإدارة قوية على أساس نيو تغ-كلي
 
-
-* * *
-
-## Commands
-
-| Use help |
-|:--------|:------------|
-| [#!/]help | just send help in your group and get the commands |
-
-**You can use "#", "!", or "/" to begin all commands
 
 * * *
 
-# Installation
+## الأوامر
+
+| استخدام المساعدة | :: -------- |: ------------ | | [#! /] هيلب | فقط أرسل المساعدة في مجموعتك والحصول على الأوامر |
+
+** يمكنك استخدام "#"، "!"، أو "/" لبدء جميع الأوامر
+
+* * *
+
+# التركيب
 
 ```sh
 # Let's install the bot.
